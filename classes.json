@@ -1,0 +1,20 @@
+{
+    "warrior": {
+        "max_hit_points": 10,
+        "strength": 10,
+        "agility": 5,
+        "intelligence": 5
+    },
+    "rogue": {
+        "max_hit_points": 10,
+        "strength": 5,
+        "agility": 10,
+        "intelligence": 5
+    },
+    "mage": {
+        "max_hit_points": 10,
+        "strength": 5,
+        "agility": 5,
+        "intelligence": 10
+    }
+}
